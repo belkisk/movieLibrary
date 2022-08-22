@@ -1,6 +1,8 @@
 package com.example.demo.domain.models;
 
+import com.sun.istack.NotNull;
 import lombok.Getter;
+import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 
 import javax.persistence.*;
